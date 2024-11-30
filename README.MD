@@ -8,9 +8,9 @@ the graph on your GitHub profile (which carries no value), they deserve to see a
 ## What it looks like
 
 ### Before :neutral_face: :no_mouth: :unamused: 
-![Before](before.png)
+![Before](img/before.png)
 ### After :muscle: :relieved: :heart: :sunglasses: :metal: :horse: :wink: :fire: :dancer: :santa: :fireworks: :cherries: :tada:
-![After](after.png)
+![After](img/after.png)
 
 ## How to use
 1. Create an empty GitHub repository. Do not initialize it.
